@@ -1,6 +1,6 @@
-# Cave Sound Remover
+# Cave Sound Masker
 
-A resource pack designed to remove the spooky cave noises from Minecraft 1.12.2.
+A resource pack designed to hide the spooky cave noises from Minecraft 1.12.2.
 
 ## Usage
 
